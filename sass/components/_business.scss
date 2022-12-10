@@ -1,4 +1,4 @@
-.main__section {
+.business {
     @extend %section;
     padding-top: 200px;
     padding-bottom: 200px;
@@ -18,11 +18,11 @@
 
 }
 
-.main__container {
+.business__container {
     max-width: 696px;
 }
 
-.main__theme {
+.business__theme {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
